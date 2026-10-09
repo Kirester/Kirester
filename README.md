@@ -7,6 +7,13 @@ Modern group expense tracker with a greedy debt simplification algorithm, penny-
 
 ---
 
+### 📊 [KontribuTrack](https://github.com/Kirester/kontributrack)
+Community financial tracking and dues collection portal with real-time SMS gateway confirmations and role-separated audit trails.
+
+`Node.js` • `Express` • `MySQL` • `bcryptjs` • `SMS Gateway`
+
+---
+
 ### 🎙️ [Void Terminal](https://github.com/Kirester/dtel-voice-terminal)
 Voice-native DeFi AI agent featuring ultra-low latency WebRTC streaming, Parakeet STT, Kokoro TTS, and autonomous x402 payments on Base.
 
